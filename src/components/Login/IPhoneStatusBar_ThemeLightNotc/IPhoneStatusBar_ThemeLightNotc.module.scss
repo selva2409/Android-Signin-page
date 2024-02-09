@@ -1,0 +1,73 @@
+._battery._battery {
+  right: 26.3974px;
+  left: initial;
+  top: 17px;
+  width: 26.6026px;
+  height: 12.5px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.outline.outline {
+  width: 26.6026px;
+  height: 12.5px;
+}
+.outline {
+  width: 26.6026px;
+  height: 12.5px;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  width: 414px;
+  height: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+  overflow: hidden;
+}
+.wifi {
+  position: absolute;
+  right: 58px;
+  top: 17px;
+  width: 18px;
+  height: 13px;
+  overflow: visible;
+}
+.icon3 {
+  width: 100%;
+  height: 100%;
+}
+.reception {
+  position: absolute;
+  left: 314px;
+  top: 18px;
+  width: 18.15px;
+  height: 11px;
+  overflow: visible;
+}
+.icon4 {
+  width: 100%;
+  height: 100%;
+}
+.time {
+  color: #fff;
+  font-size: 18px;
+  line-height: 100%;
+  font-weight: 600;
+  font-family: SF Pro Display, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.02em;
+  position: absolute;
+  left: 39px;
+  top: 15px;
+  width: min-content;
+  height: min-content;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  flex-direction: column;
+}

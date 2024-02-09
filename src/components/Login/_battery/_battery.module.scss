@@ -1,0 +1,33 @@
+.root {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 83px;
+  height: 39px;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.fill {
+  position: absolute;
+  left: 7.2289%;
+  right: 16.8675%;
+  top: 15.3846%;
+  bottom: 15.3846%;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.outline {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 83px;
+  height: 39px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
